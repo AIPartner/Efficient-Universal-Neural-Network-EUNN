@@ -1,0 +1,8 @@
+Copyright 2024 Phillip Snodgrass
+
+This project is licensed under the Apache License, Version 2.0. See the LICENSE file for details.
+
+This project utilizes the following third-party libraries:
+* TensorFlow (Version 2.11.0): Copyright Google LLC, licensed under the Apache License, Version 2.0. 
+
+[If you've modified TensorFlow or added other dependencies, list those here]
